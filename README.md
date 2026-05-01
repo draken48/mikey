@@ -72,6 +72,6 @@ npm run dev
 ## 👨‍💻 Author
 
 
-Nivedha k
-Divya sb 
+Nivedha K
+Divya SB
 Mayur V
