@@ -7,7 +7,7 @@
 
 ## 📸 Screenshots
 
-### Dashboard
+### Setting 
 
 ![Dashboard](dashboard.png)
 
@@ -19,7 +19,7 @@
 
 ![Demo2](demo2.png)
 
-### Feature 3
+### Homepage 
 
 ![Demo3](demo3.png)
 
