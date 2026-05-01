@@ -19,6 +19,16 @@
 
 ![Demo2](demo2.png)
 
+### Feature 3
+
+![Demo4](demo4.png)
+
+### Feature 4
+
+![Demo5](demo5.png)
+
+
+
 ### Homepage 
 
 ![Demo3](demo3.png)
